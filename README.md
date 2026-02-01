@@ -18,12 +18,6 @@ Sobre Mim Sou estudante Bacharelado em sistema da informação pretendo contribu
 
 ---
 
-### 📈 Estatísticas
-*(Isso aqui gera uns gráficos automáticos bem legais no seu perfil)*
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Como me encontrar
 - **LinkedIn:** https://www.linkedin.com/in/alex-vander-alves-francini-2b0597325/
 - **E-mail:** alexfrancini@souunisuam.com.br
